@@ -61,15 +61,6 @@ Vault currently supports the following: Permissions 3, PEX, GroupManager, bPerms
 			<version>${bukkitVersion}</version>
 			<type>jar</type>
 		</dependency>
-		<!-- Test Dependency -->
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.12</version>
-			<type>jar</type>
-			<scope>test</scope>
-			<optional>true</optional>
-		</dependency>
 	</dependencies>
 
 	<build>
